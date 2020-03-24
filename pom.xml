@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.poc.livraria</groupId>
     <artifactId>livraria</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>livraria</name>
     <description>Projeto de controle de aluguel de livros</description>
 
